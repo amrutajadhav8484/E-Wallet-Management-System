@@ -1,0 +1,5 @@
+package com.exam.entities;
+
+public enum RoleType {
+	ROLE_USER,ROLE_ADMIN
+}
